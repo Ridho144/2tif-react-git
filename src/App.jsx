@@ -9,7 +9,7 @@ function App() {
   return (
     <>
       <div>
-        <a href="https://vite.dev" target="_blank">
+        <a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmwskwong.com%2Fblog%2Fenforcing-coding-style-with-vercel-style-guide&psig=AOvVaw0RhrdS5o4M1F-FxMFmlhGm&ust=1747795952744000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCODdubiFsY0DFQAAAAAdAAAAABAE" target="_blank">
           <img src={viteLogo} className="logo" alt="Vite logo" />
         </a>
         <a href="https://react.dev" target="_blank">
